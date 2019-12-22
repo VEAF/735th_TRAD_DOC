@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>735th Training Air Defense Mission - Documentation</title>
+    <link>https://veaf.github.io/735th_TRAD_DOC/</link>
+    <description>Recent content on 735th Training Air Defense Mission - Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://veaf.github.io/735th_TRAD_DOC/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ACO</title>
+      <link>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/2.aco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/2.aco/</guid>
+      <description>Rédaction en cours.</description>
+    </item>
+    
+    <item>
+      <title>Communications</title>
+      <link>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/3.communications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/3.communications/</guid>
+      <description>Rédaction en cours.
+CommPlan
+FreqPlan 735th Caucasus
+Common Blue preset for fighters : </description>
+    </item>
+    
+    <item>
+      <title>Tasking</title>
+      <link>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/4.tasking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/4.tasking/</guid>
+      <description>Rédaction en cours.</description>
+    </item>
+    
+    <item>
+      <title>ROEs</title>
+      <link>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/5.roes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/5.roes/</guid>
+      <description>Rédaction en cours.</description>
+    </item>
+    
+    <item>
+      <title>Weather</title>
+      <link>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/6.weather/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/6.weather/</guid>
+      <description>Rédaction en cours.</description>
+    </item>
+    
+  </channel>
+</rss>
