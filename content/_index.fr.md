@@ -71,4 +71,4 @@ Je vous souhaite de passer de nombreuses heures de plaisir sur cette mission.
 
 N'hésitez pas à nous en faire part, via notre forum, les tickets sur GitHub ou [par contact direct](mailto:veaf_couby@gmail.com).
 
-## Frédéric "Couby Stark" Coubard
+#### Frédéric "Couby Stark" Coubard
