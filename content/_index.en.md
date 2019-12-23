@@ -33,6 +33,7 @@ Au bilan, les principaux écueils rencontrés dans l'organisation de soirées tr
 L'idée de production de cet environnement d'entraînement persistant vient bien évidemment de la recherche d'une solution pour l'organisation de ces activités. Il est également au carrefour de diverses autres expériences, réflexions et inspirations dont les plus notables sont :
 * le Tactical Engagement Panama avec planification des vols en ligne sur Falcon 4.0 que j'avais préparé pour une rencontre du 51st Massilia (2000)
 * les *campagnes dynamiques* H24 que j'ai organisé sur Falcon 4.0 avec les Cellules Rapaces et la VEAF (2003 - 2008)
+* le Tactical Engagement commun training escadrons 235th, dont j'ai proposé le concept et qui a été mis en oeuvre par la 235th (2012)
 * une réflexion que j'ai réalisée sur l'application du concept de *campagne dynamique* à un environnement d'entraînement permanent en simulation pour l'armée de l'air (2013)
 * les travaux de Zip et Mitch sur la mission d'*Open Training* VEAF sur DCS, proposant une mission permanente, ouverte à tous, dans laquelle on peut voler sur n'importe quel aéronef DCS (2018)
 
