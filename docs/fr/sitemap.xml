@@ -189,6 +189,7 @@
   
   <url>
     <loc>https://veaf.github.io/735th_TRAD_DOC/fr/</loc>
+    <lastmod>2019-12-22T18:16:40+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -199,6 +200,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://veaf.github.io/735th_TRAD_DOC/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://veaf.github.io/735th_TRAD_DOC/fr/credits/</loc>
+    <lastmod>2019-12-22T18:16:40+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://veaf.github.io/735th_TRAD_DOC/credits/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://veaf.github.io/735th_TRAD_DOC/fr/credits/"
                 />
   </url>
   

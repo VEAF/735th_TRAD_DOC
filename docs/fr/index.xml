@@ -6,6 +6,7 @@
     <description>Recent content on Mission de Training Air Defense 735th - Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
+    <lastBuildDate>Sun, 22 Dec 2019 18:16:40 +0200</lastBuildDate>
     
 	<atom:link href="https://veaf.github.io/735th_TRAD_DOC/fr/index.xml" rel="self" type="application/rss+xml" />
     
@@ -56,6 +57,18 @@ Common Blue preset for fighters : </description>
       
       <guid>https://veaf.github.io/735th_TRAD_DOC/fr/1.-blue-operations/6.weather/</guid>
       <description>Rédaction en cours.</description>
+    </item>
+    
+    <item>
+      <title>Crédits</title>
+      <link>https://veaf.github.io/735th_TRAD_DOC/fr/credits/</link>
+      <pubDate>Sun, 22 Dec 2019 18:16:40 +0200</pubDate>
+      
+      <guid>https://veaf.github.io/735th_TRAD_DOC/fr/credits/</guid>
+      <description>Conception initiale et auteur de la mission 735th Training Air Defense Mission : Frédéric &amp;ldquo;Couby Stark&amp;rdquo; Coubard
+Contributeurs :
+ Zip Mitch  Documentation par Frédéric &amp;ldquo;Couby Stark&amp;rdquo; Coubard
+Documentation publiée sous licence </description>
     </item>
     
   </channel>
