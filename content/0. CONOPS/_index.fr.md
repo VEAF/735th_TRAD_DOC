@@ -9,8 +9,6 @@ pre = "<b>0. </b>"
 ---
 
 #	CONCEPT d'OPERATIONS
-##	Dernière mise à jour : 20-12-2019
+##	Dernière mise à jour : 24-12-2019
 
 ---
-
-Rédaction en cours
