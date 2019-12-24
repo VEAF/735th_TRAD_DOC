@@ -4,7 +4,7 @@
 	"title": "CONOPS",
 	"tags": [],
 	"description": "",
-	"content": " CONCEPT d'OPERATIONS Dernière mise à jour : 20-12-2019  Rédaction en cours\n"
+	"content": " CONCEPT d'OPERATIONS Dernière mise à jour : 24-12-2019  "
 },
 {
 	"uri": "https://veaf.github.io/735th_TRAD_DOC/fr/1.-blue-operations/",
@@ -28,6 +28,20 @@
 	"content": "Rédaction en cours.\n"
 },
 {
+	"uri": "https://veaf.github.io/735th_TRAD_DOC/fr/0.-conops/1.generality/",
+	"title": "Généralités",
+	"tags": [],
+	"description": "",
+	"content": "Objectifs Effet final recherché Offrir un environnement d'entraînement aux missions de défense aérienne souple et efficace privilégiant \u0026ldquo;l'apprentissage par l'action\u0026rdquo;.\n\rCet environnement d'entraînement et sa documentation associée doivent permettre :\n de maximiser le temps de jeu d'optimiser la valorisation des entraînements de stimuler la créativité tactique  Objectifs d'apprentissage  Application des procédures de communication retenues ( Communications ) Intégration à et suivi de l'organisation de l'espace aérien présenté ( ACO ) Exécution de missions simples Application de tactiques en fonction de la mission Exploration de nouvelles tactiques Coordination multi-missions / exécution de missions complexes (COMAO)  Contraintes L'esprit de jeu associé à cette mission se veut être du serious gaming loisir, pour hardcores simers en quête d'immersion et de compétition. Cette quête impose des choix et des équilibres de la responsabilité de l'auteur principal.\nL'environnement idéal d'entraînement ne repose pas uniquement sur la mission et les procédures, il repose aussi énormément sur les participants immergés dans la mission !\nPar conséquent, afin de répondre à cet idéal, la mise en oeuvre de cette mission sur le serveur VEAF implique un accès réservé aux pilotes - pas seulement de la VEAF - en accord avec l'esprit de jeu souhaité. La section Pilotes décrit les modalités d'accès et recense les pilotes TRAD-ready.\nAudience et rôles Le jeu de cette mission est destinée à tout pilote de la VEAF ou externe/visiteur partageant les mêmes objectifs dans le même esprit de jeu.\nLe jeu de cette mission fait intervenir trois types de profiles :\n pilote équipier pilote leadeur animateur d'entraînement  Un pilote équipier est un \u0026ldquo;simple\u0026rdquo; participant. Il suit son leadeur pour l'exécution d'une mission.\nUn pilote leadeur est un participant en charge d'une mission, avec plusieurs ou sans équipier. Son objectif et sa responsabilité sont de réaliser la mission, et débriefer ses équipiers sur la performance.\nUn animateur d'entraînement organise la session d'entraînement. Il affecte les pilotes dans les vols/missions. Il réalise le mass débrief de la session d'entraînement. Il peut y avoir plusieurs animateurs d'entraînement en simultanée sur la mission : une de leur responsabilité est alors de bien coordonner l'utilisation des moyens fournis par la mission (zones de travail, activation des automates d'entrainement, activation d'objectifs et défenses).\n"
+},
+{
+	"uri": "https://veaf.github.io/735th_TRAD_DOC/fr/5.-pilots/1.access/",
+	"title": "Modalités d&#39;accès à TRAD",
+	"tags": [],
+	"description": "",
+	"content": "Comment accéder au serveur VEAF TRAD.\nRédaction en cours.\n"
+},
+{
 	"uri": "https://veaf.github.io/735th_TRAD_DOC/fr/3.-redair-operations/",
 	"title": "Opérations Redair",
 	"tags": [],
@@ -40,6 +54,20 @@
 	"tags": [],
 	"description": "",
 	"content": "Rédaction en cours.\nCommPlan\nFreqPlan 735th Caucasus\nCommon Blue preset for fighters : "
+},
+{
+	"uri": "https://veaf.github.io/735th_TRAD_DOC/fr/0.-conops/2.in_practice/",
+	"title": "En pratique",
+	"tags": [],
+	"description": "",
+	"content": "Principes directeurs L'espace aérien est organisé de sorte à offrir des contextes de travail préférentiels : Dispositif de défense Air Red Le dispositif de défense aérienne Red est permanent pour les zones de travail PvE, avec des patrouilles de 2 appareils.\nLes ratios d'opposition sont réglés sur :\n 1:1 pour les zones Red Fox3 2:1 pour les zones Red Fox1  Dispositif de défense Sol-Air Red Les défenses sol-air Red ne sont pas présentes par défaut. Elles sont activées à la demande en fonction des souhaits de training.\nActivation des automates Red d'interceptions ou raids L'activation des automates des raids ou vols d'interceptions Red pour le training des CAPs se fait via le menu radio.\n[Captures d'écrans / vidéo à venir]\nExemple de gestion d'un training simple [vidéo exemple sur un training SWEEP et/ou CAP à venir]\nZones de travail air-sol Des zones d'activités pour les missions air-sol sont définies comme suit : Exemple de gestion d'un training COMAO [vidéo exemple sur un training COMAO à venir]\n"
+},
+{
+	"uri": "https://veaf.github.io/735th_TRAD_DOC/fr/5.-pilots/2.pilots/",
+	"title": "Pilotes TRAD-ready",
+	"tags": [],
+	"description": "",
+	"content": "Pilotes TRAD-ready.\n"
 },
 {
 	"uri": "https://veaf.github.io/735th_TRAD_DOC/fr/4.-redair-flights/",
@@ -86,6 +114,13 @@
 {
 	"uri": "https://veaf.github.io/735th_TRAD_DOC/fr/1.-blue-operations/6.weather/",
 	"title": "Météo",
+	"tags": [],
+	"description": "",
+	"content": "Rédaction en cours.\n"
+},
+{
+	"uri": "https://veaf.github.io/735th_TRAD_DOC/fr/1.-blue-operations/7.target_list/",
+	"title": "Target List",
 	"tags": [],
 	"description": "",
 	"content": "Rédaction en cours.\n"

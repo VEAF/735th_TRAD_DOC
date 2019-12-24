@@ -9,7 +9,7 @@
 
     <link rel="icon" href="/735th_TRAD_DOC/images/favicon.png" type="image/png">
 
-    <title>Redair Flights :: 735th Training Air Defense Mission - Documentation</title>
+    <title>In_Practice :: 735th Training Air Defense Mission - Documentation</title>
 
     
     <link href="/735th_TRAD_DOC/css/nucleus.css?1577208121" rel="stylesheet">
@@ -35,7 +35,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/735th_TRAD_DOC/4.-redair-flights/">
+  <body class="" data-url="/735th_TRAD_DOC/0.-conops/2.in_practice/">
     <nav id="sidebar" class="">
 
 
@@ -76,7 +76,7 @@
   
     
     <li data-nav-id="/735th_TRAD_DOC/0.-conops/" title="CONOPS" class="dd-item 
-        
+        parent
         
         
         ">
@@ -119,7 +119,7 @@
  
   
     
-      <li data-nav-id="/735th_TRAD_DOC/0.-conops/2.in_practice/" title="In_Practice" class="dd-item ">
+      <li data-nav-id="/735th_TRAD_DOC/0.-conops/2.in_practice/" title="In_Practice" class="dd-item active">
         <a href="/735th_TRAD_DOC/0.-conops/2.in_practice/">
         In_Practice
         
@@ -336,8 +336,8 @@
   
     
     <li data-nav-id="/735th_TRAD_DOC/4.-redair-flights/" title="Redair Flights" class="dd-item 
-        parent
-        active
+        
+        
         
         ">
       <a href="/735th_TRAD_DOC/4.-redair-flights/">
@@ -504,7 +504,7 @@
                   
                     
                     
-                      <option id="en" value="https://veaf.github.io/735th_TRAD_DOC/4.-redair-flights/" selected>English</option>
+                      <option id="en" value="https://veaf.github.io/735th_TRAD_DOC/0.-conops/2.in_practice/" selected>English</option>
                     
                   
               
@@ -518,7 +518,7 @@
                   
                     
                     
-                      <option id="fr" value="https://veaf.github.io/735th_TRAD_DOC/fr/4.-redair-flights/">Français</option>
+                      <option id="fr" value="https://veaf.github.io/735th_TRAD_DOC/fr/0.-conops/2.in_practice/">Français</option>
                     
                   
               
@@ -563,7 +563,7 @@
                   
                   
                   <div id="top-github-link">
-                    <a class="github-link" title='Edit this page' href="https://github.com/Couby/Tacview-LUA-SDK-Doc/edit/master/content/4.%20Redair%20Flights/_index.en.md" target="blank">
+                    <a class="github-link" title='Edit this page' href="https://github.com/Couby/Tacview-LUA-SDK-Doc/edit/master/content/0.%20CONOPS/2.In_Practice.en.md" target="blank">
                       <i class="fas fa-code-branch"></i>
                       <span id="top-github-link-text">Edit this page</span>
                     </a>
@@ -578,6 +578,8 @@
                         </a>
                     </span>
                   
+                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+                  
                   <span class="links">
                  
                  
@@ -588,7 +590,13 @@
             
           
           
-            <a href='/735th_TRAD_DOC/'></a> > Redair Flights
+            
+            
+          
+          
+            <a href='/735th_TRAD_DOC/'></a> > <a href='/735th_TRAD_DOC/0.-conops/'>CONOPS</a> > In_Practice
+          
+         
           
          
           
@@ -597,6 +605,26 @@
                   </span>
                 </div>
                 
+                    <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#principes-directeurs">Principes directeurs</a>
+      <ul>
+        <li><a href="#dispositif-de-dfense-air-red">Dispositif de défense Air Red</a></li>
+        <li><a href="#dispositif-de-dfense-sol-air-red">Dispositif de défense Sol-Air Red</a></li>
+        <li><a href="#activation-des-automates-red-dinterceptions-ou-raids">Activation des automates Red d'interceptions ou raids</a></li>
+      </ul>
+    </li>
+    <li><a href="#exemple-de-gestion-dun-training-simple">Exemple de gestion d'un training simple</a></li>
+    <li><a href="#zones-de-travail-air-sol">Zones de travail air-sol</a></li>
+    <li><a href="#exemple-de-gestion-dun-training-comao">Exemple de gestion d'un training COMAO</a></li>
+  </ul>
+</nav>
+    </div>
+</div>
+
+                
               </div>
             </div>
             
@@ -604,32 +632,47 @@
         
         </div>
         
-          <div id="chapter">
-        
         <div id="body-inner">
+          
+            <h1>
+              
+              In_Practice
+            </h1>
           
 
         
 
 
 
-
-	<hr>
-<hr>
-<h1 id="redair-flights">Redair Flights</h1>
-<h2 id="last-update-2019-12-20">Last update: 2019-12-20</h2>
-<hr>
-
-
-
+<h2 id="principes-directeurs">Principes directeurs</h2>
+<p>L'espace aérien est organisé de sorte à offrir des contextes de travail préférentiels :
+<img src="https://raw.githubusercontent.com/VEAF/735th_Training_AirDefense_Mission/master/doc/A2A_training_areas.png" alt="TRAD A2A training areas"></p>
+<h3 id="dispositif-de-dfense-air-red">Dispositif de défense Air Red</h3>
+<p>Le dispositif de défense aérienne Red est permanent pour les zones de travail <em>PvE</em>, avec des patrouilles de 2 appareils.</p>
+<p>Les ratios d'opposition sont réglés sur :</p>
+<ul>
+<li>1:1 pour les zones Red Fox3</li>
+<li>2:1 pour les zones Red Fox1</li>
+</ul>
+<h3 id="dispositif-de-dfense-sol-air-red">Dispositif de défense Sol-Air Red</h3>
+<p>Les défenses sol-air Red ne sont pas présentes par défaut. Elles sont activées à la demande en fonction des souhaits de training.</p>
+<h3 id="activation-des-automates-red-dinterceptions-ou-raids">Activation des automates Red d'interceptions ou raids</h3>
+<p>L'activation des automates des raids ou vols d'interceptions Red pour le training des CAPs se fait via le menu radio.</p>
+<p><em>[Captures d'écrans / vidéo à venir]</em></p>
+<h2 id="exemple-de-gestion-dun-training-simple">Exemple de gestion d'un training simple</h2>
+<p><em>[vidéo exemple sur un training SWEEP et/ou CAP à venir]</em></p>
+<h2 id="zones-de-travail-air-sol">Zones de travail air-sol</h2>
+<p>Des zones d'activités pour les missions air-sol sont définies comme suit :
+<img src="https://raw.githubusercontent.com/VEAF/735th_Training_AirDefense_Mission/master/doc/A2G_training_areas.png" alt="TRAD A2G training areas"></p>
+<h2 id="exemple-de-gestion-dun-training-comao">Exemple de gestion d'un training COMAO</h2>
+<p><em>[vidéo exemple sur un training COMAO à venir]</em></p>
 
 
 <footer class=" footline" >
 	
 </footer>
 
-        
-            </div> 
+
         
         </div> 
         
@@ -661,8 +704,6 @@
             
                 
                     
-                        
-                        
                     
                 
                 
@@ -676,6 +717,9 @@
             
             
                 
+                    
+                        
+                        
                     
                 
                 
@@ -693,6 +737,7 @@
             
                 
                     
+                    
                 
                 
 
@@ -703,35 +748,6 @@
                     
             
         
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
                     
             
         
@@ -741,6 +757,9 @@
             
                 
                     
+                        
+                        
+                    
                 
                 
 
@@ -748,9 +767,6 @@
                     
                     
 
-                    
-            
-        
                     
                         
             
@@ -816,6 +832,38 @@
             
         
                     
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
             
         
                     
@@ -856,7 +904,6 @@
             
                 
                     
-                    
                 
                 
 
@@ -872,9 +919,6 @@
             
             
                 
-                    
-                        
-                        
                     
                 
                 
@@ -960,10 +1004,10 @@
 	 
 	 
 		
-			<a class="nav nav-prev" href="/735th_TRAD_DOC/3.-redair-operations/" title="Redair Operations"> <i class="fa fa-chevron-left"></i></a>
+			<a class="nav nav-prev" href="/735th_TRAD_DOC/0.-conops/1.generality/" title="Generality"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="/735th_TRAD_DOC/5.-pilots/" title="Pilots" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="/735th_TRAD_DOC/1.-blue-operations/" title="Blue Operations" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
@@ -993,3 +1037,4 @@
 
   </body>
 </html>
+

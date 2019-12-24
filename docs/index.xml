@@ -21,6 +21,27 @@
     </item>
     
     <item>
+      <title>Generality</title>
+      <link>https://veaf.github.io/735th_TRAD_DOC/0.-conops/1.generality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://veaf.github.io/735th_TRAD_DOC/0.-conops/1.generality/</guid>
+      <description>Objectifs Effet final recherché Offrir un environnement d&#39;entraînement aux missions de défense aérienne souple et efficace privilégiant &amp;ldquo;l&#39;apprentissage par l&#39;action&amp;rdquo;.
+Cet environnement d&#39;entraînement et sa documentation associée doivent permettre :
+ de maximiser le temps de jeu d&#39;optimiser la valorisation des entraînements de stimuler la créativité tactique  Objectifs d&#39;apprentissage  Application des procédures de communication retenues ( Communications ) Intégration à et suivi de l&#39;organisation de l&#39;espace aérien présenté ( ACO ) Exécution de missions simples Application de tactiques en fonction de la mission Exploration de nouvelles tactiques Coordination multi-missions / exécution de missions complexes (COMAO)  Contraintes L&#39;esprit de jeu associé à cette mission se veut être du serious gaming loisir, pour hardcores simers en quête d&#39;immersion et de compétition.</description>
+    </item>
+    
+    <item>
+      <title>TRAD Access</title>
+      <link>https://veaf.github.io/735th_TRAD_DOC/5.-pilots/1.access/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://veaf.github.io/735th_TRAD_DOC/5.-pilots/1.access/</guid>
+      <description>How to access VEAF TRAD server.
+[Writing in progress]</description>
+    </item>
+    
+    <item>
       <title>Communications</title>
       <link>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/3.communications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,6 +51,26 @@
 CommPlan
 FreqPlan 735th Caucasus
 Common Blue preset for fighters : </description>
+    </item>
+    
+    <item>
+      <title>In_Practice</title>
+      <link>https://veaf.github.io/735th_TRAD_DOC/0.-conops/2.in_practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://veaf.github.io/735th_TRAD_DOC/0.-conops/2.in_practice/</guid>
+      <description>Principes directeurs L&#39;espace aérien est organisé de sorte à offrir des contextes de travail préférentiels : Dispositif de défense Air Red Le dispositif de défense aérienne Red est permanent pour les zones de travail PvE, avec des patrouilles de 2 appareils.
+Les ratios d&#39;opposition sont réglés sur :
+ 1:1 pour les zones Red Fox3 2:1 pour les zones Red Fox1  Dispositif de défense Sol-Air Red Les défenses sol-air Red ne sont pas présentes par défaut.</description>
+    </item>
+    
+    <item>
+      <title>TRAD-ready Pilots</title>
+      <link>https://veaf.github.io/735th_TRAD_DOC/5.-pilots/2.pilots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://veaf.github.io/735th_TRAD_DOC/5.-pilots/2.pilots/</guid>
+      <description>TRAD-ready Pilots.</description>
     </item>
     
     <item>
@@ -56,6 +97,15 @@ Common Blue preset for fighters : </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/6.weather/</guid>
+      <description>Rédaction en cours.</description>
+    </item>
+    
+    <item>
+      <title>Target List</title>
+      <link>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/7.target_list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://veaf.github.io/735th_TRAD_DOC/1.-blue-operations/7.target_list/</guid>
       <description>Rédaction en cours.</description>
     </item>
     

@@ -11,5 +11,27 @@
 	<atom:link href="https://veaf.github.io/735th_TRAD_DOC/fr/0.-conops/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Généralités</title>
+      <link>https://veaf.github.io/735th_TRAD_DOC/fr/0.-conops/1.generality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://veaf.github.io/735th_TRAD_DOC/fr/0.-conops/1.generality/</guid>
+      <description>Objectifs Effet final recherché Offrir un environnement d&#39;entraînement aux missions de défense aérienne souple et efficace privilégiant &amp;ldquo;l&#39;apprentissage par l&#39;action&amp;rdquo;.
+Cet environnement d&#39;entraînement et sa documentation associée doivent permettre :
+ de maximiser le temps de jeu d&#39;optimiser la valorisation des entraînements de stimuler la créativité tactique  Objectifs d&#39;apprentissage  Application des procédures de communication retenues ( Communications ) Intégration à et suivi de l&#39;organisation de l&#39;espace aérien présenté ( ACO ) Exécution de missions simples Application de tactiques en fonction de la mission Exploration de nouvelles tactiques Coordination multi-missions / exécution de missions complexes (COMAO)  Contraintes L&#39;esprit de jeu associé à cette mission se veut être du serious gaming loisir, pour hardcores simers en quête d&#39;immersion et de compétition.</description>
+    </item>
+    
+    <item>
+      <title>En pratique</title>
+      <link>https://veaf.github.io/735th_TRAD_DOC/fr/0.-conops/2.in_practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://veaf.github.io/735th_TRAD_DOC/fr/0.-conops/2.in_practice/</guid>
+      <description>Principes directeurs L&#39;espace aérien est organisé de sorte à offrir des contextes de travail préférentiels : Dispositif de défense Air Red Le dispositif de défense aérienne Red est permanent pour les zones de travail PvE, avec des patrouilles de 2 appareils.
+Les ratios d&#39;opposition sont réglés sur :
+ 1:1 pour les zones Red Fox3 2:1 pour les zones Red Fox1  Dispositif de défense Sol-Air Red Les défenses sol-air Red ne sont pas présentes par défaut.</description>
+    </item>
+    
   </channel>
 </rss>
