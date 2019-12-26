@@ -18,6 +18,6 @@ git clone https://github.com/matcornic/hugo-theme-learn.git
 Produce your modifications.
 You can monitor the result of your modifications in real-time thanks to `hugo server` command : generate local website http://localhost:1313/735th_TRAD_DOC .
 
-When you want to generate the static website, execute `hugo -d docs`to generate in docs folder.
+When you want to generate the static website, execute `hugo -d docs` or `./build.cmd` to generate in docs folder.
 
 Push/pull request your modifications.

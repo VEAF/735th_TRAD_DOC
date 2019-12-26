@@ -12,20 +12,20 @@
     <title>In_Practice :: 735th Training Air Defense Mission - Documentation</title>
 
     
-    <link href="/735th_TRAD_DOC/css/nucleus.css?1577208121" rel="stylesheet">
-    <link href="/735th_TRAD_DOC/css/fontawesome-all.min.css?1577208121" rel="stylesheet">
-    <link href="/735th_TRAD_DOC/css/hybrid.css?1577208121" rel="stylesheet">
-    <link href="/735th_TRAD_DOC/css/featherlight.min.css?1577208121" rel="stylesheet">
-    <link href="/735th_TRAD_DOC/css/perfect-scrollbar.min.css?1577208121" rel="stylesheet">
-    <link href="/735th_TRAD_DOC/css/auto-complete.css?1577208121" rel="stylesheet">
-    <link href="/735th_TRAD_DOC/css/atom-one-dark-reasonable.css?1577208121" rel="stylesheet">
-    <link href="/735th_TRAD_DOC/css/theme.css?1577208121" rel="stylesheet">
-    <link href="/735th_TRAD_DOC/css/hugo-theme.css?1577208121" rel="stylesheet">
+    <link href="/735th_TRAD_DOC/css/nucleus.css?1577342040" rel="stylesheet">
+    <link href="/735th_TRAD_DOC/css/fontawesome-all.min.css?1577342040" rel="stylesheet">
+    <link href="/735th_TRAD_DOC/css/hybrid.css?1577342040" rel="stylesheet">
+    <link href="/735th_TRAD_DOC/css/featherlight.min.css?1577342040" rel="stylesheet">
+    <link href="/735th_TRAD_DOC/css/perfect-scrollbar.min.css?1577342040" rel="stylesheet">
+    <link href="/735th_TRAD_DOC/css/auto-complete.css?1577342040" rel="stylesheet">
+    <link href="/735th_TRAD_DOC/css/atom-one-dark-reasonable.css?1577342040" rel="stylesheet">
+    <link href="/735th_TRAD_DOC/css/theme.css?1577342040" rel="stylesheet">
+    <link href="/735th_TRAD_DOC/css/hugo-theme.css?1577342040" rel="stylesheet">
     
-      <link href="/735th_TRAD_DOC/css/theme-blue.css?1577208121" rel="stylesheet">
+      <link href="/735th_TRAD_DOC/css/theme-blue.css?1577342040" rel="stylesheet">
     
 
-    <script src="/735th_TRAD_DOC/js/jquery-3.3.1.min.js?1577208121"></script>
+    <script src="/735th_TRAD_DOC/js/jquery-3.3.1.min.js?1577342040"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -52,14 +52,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/735th_TRAD_DOC/js/lunr.min.js?1577208121"></script>
-<script type="text/javascript" src="/735th_TRAD_DOC/js/auto-complete.js?1577208121"></script>
+<script type="text/javascript" src="/735th_TRAD_DOC/js/lunr.min.js?1577342040"></script>
+<script type="text/javascript" src="/735th_TRAD_DOC/js/auto-complete.js?1577342040"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/veaf.github.io\/735th_TRAD_DOC\/";
     
 </script>
-<script type="text/javascript" src="/735th_TRAD_DOC/js/search.js?1577208121"></script>
+<script type="text/javascript" src="/735th_TRAD_DOC/js/search.js?1577342040"></script>
 
     
   </div>
@@ -611,9 +611,9 @@
   <ul>
     <li><a href="#principes-directeurs">Principes directeurs</a>
       <ul>
-        <li><a href="#dispositif-de-dfense-air-red">Dispositif de défense Air Red</a></li>
-        <li><a href="#dispositif-de-dfense-sol-air-red">Dispositif de défense Sol-Air Red</a></li>
-        <li><a href="#activation-des-automates-red-dinterceptions-ou-raids">Activation des automates Red d'interceptions ou raids</a></li>
+        <li><a href="#dispositif-arien-de-dfense-red">Dispositif aérien de défense Red</a></li>
+        <li><a href="#activation-des-automates-red-pour-sweep-ou-raids-sur-les-zones-de-caps">Activation des automates Red pour SWEEP ou raids sur les zones de CAPs</a></li>
+        <li><a href="#dispositif-de-dfense-sol-air-red-implmentation-en-cours">Dispositif de défense Sol-Air Red (implémentation en cours)</a></li>
       </ul>
     </li>
     <li><a href="#exemple-de-gestion-dun-training-simple">Exemple de gestion d'un training simple</a></li>
@@ -647,17 +647,20 @@
 <h2 id="principes-directeurs">Principes directeurs</h2>
 <p>L'espace aérien est organisé de sorte à offrir des contextes de travail préférentiels :
 <img src="https://raw.githubusercontent.com/VEAF/735th_Training_AirDefense_Mission/master/doc/A2A_training_areas.png" alt="TRAD A2A training areas"></p>
-<h3 id="dispositif-de-dfense-air-red">Dispositif de défense Air Red</h3>
-<p>Le dispositif de défense aérienne Red est permanent pour les zones de travail <em>PvE</em>, avec des patrouilles de 2 appareils.</p>
+<h3 id="dispositif-arien-de-dfense-red">Dispositif aérien de défense Red</h3>
+<p>Le dispositif aérien de défense Red est permanent pour les zones de travail <em>PvE</em>, avec des patrouilles de 2 appareils.</p>
 <p>Les ratios d'opposition sont réglés sur :</p>
 <ul>
 <li>1:1 pour les zones Red Fox3</li>
 <li>2:1 pour les zones Red Fox1</li>
 </ul>
-<h3 id="dispositif-de-dfense-sol-air-red">Dispositif de défense Sol-Air Red</h3>
+<p>Cela signifie que si un Sweep de 4 appareils pénètre une zone Red de travail Fox3, cela provoquera le décollage de 2 intercepteurs.
+Et donc si un Sweep de 4 appareils pénètre une zone Red de travail Fox1, cela provoquera le décollage de 6 intercepteurs&hellip;</p>
+<h3 id="activation-des-automates-red-pour-sweep-ou-raids-sur-les-zones-de-caps">Activation des automates Red pour SWEEP ou raids sur les zones de CAPs</h3>
+<p>L'activation d'automates pour provoquer des raids ou vols d'interceptions (SWEEP) Red, pour le training des CAPs Blues se fait via le menu radio.</p>
+<p><em>[Captures d'écrans / vidéo à venir]</em></p>
+<h3 id="dispositif-de-dfense-sol-air-red-implmentation-en-cours">Dispositif de défense Sol-Air Red (implémentation en cours)</h3>
 <p>Les défenses sol-air Red ne sont pas présentes par défaut. Elles sont activées à la demande en fonction des souhaits de training.</p>
-<h3 id="activation-des-automates-red-dinterceptions-ou-raids">Activation des automates Red d'interceptions ou raids</h3>
-<p>L'activation des automates des raids ou vols d'interceptions Red pour le training des CAPs se fait via le menu radio.</p>
 <p><em>[Captures d'écrans / vidéo à venir]</em></p>
 <h2 id="exemple-de-gestion-dun-training-simple">Exemple de gestion d'un training simple</h2>
 <p><em>[vidéo exemple sur un training SWEEP et/ou CAP à venir]</em></p>
@@ -1017,19 +1020,19 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/735th_TRAD_DOC/js/clipboard.min.js?1577208121"></script>
-    <script src="/735th_TRAD_DOC/js/perfect-scrollbar.min.js?1577208121"></script>
-    <script src="/735th_TRAD_DOC/js/perfect-scrollbar.jquery.min.js?1577208121"></script>
-    <script src="/735th_TRAD_DOC/js/jquery.sticky.js?1577208121"></script>
-    <script src="/735th_TRAD_DOC/js/featherlight.min.js?1577208121"></script>
-    <script src="/735th_TRAD_DOC/js/highlight.pack.js?1577208121"></script>
+    <script src="/735th_TRAD_DOC/js/clipboard.min.js?1577342040"></script>
+    <script src="/735th_TRAD_DOC/js/perfect-scrollbar.min.js?1577342040"></script>
+    <script src="/735th_TRAD_DOC/js/perfect-scrollbar.jquery.min.js?1577342040"></script>
+    <script src="/735th_TRAD_DOC/js/jquery.sticky.js?1577342040"></script>
+    <script src="/735th_TRAD_DOC/js/featherlight.min.js?1577342040"></script>
+    <script src="/735th_TRAD_DOC/js/highlight.pack.js?1577342040"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/735th_TRAD_DOC/js/modernizr.custom-3.6.0.js?1577208121"></script>
-    <script src="/735th_TRAD_DOC/js/learn.js?1577208121"></script>
-    <script src="/735th_TRAD_DOC/js/hugo-learn.js?1577208121"></script>
+    <script src="/735th_TRAD_DOC/js/modernizr.custom-3.6.0.js?1577342040"></script>
+    <script src="/735th_TRAD_DOC/js/learn.js?1577342040"></script>
+    <script src="/735th_TRAD_DOC/js/hugo-learn.js?1577342040"></script>
 
-    <link href="/735th_TRAD_DOC/mermaid/mermaid.css?1577208121" rel="stylesheet" />
-    <script src="/735th_TRAD_DOC/mermaid/mermaid.js?1577208121"></script>
+    <link href="/735th_TRAD_DOC/mermaid/mermaid.css?1577342040" rel="stylesheet" />
+    <script src="/735th_TRAD_DOC/mermaid/mermaid.js?1577342040"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>
